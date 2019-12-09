@@ -16,11 +16,13 @@ At the Kalahari Resort in Mount Pocono, Pennsylvania.
 
 ### Microservices, Legacy Code, and Testing
 
-- Modernizing .NET Framework Applications Workshop
-- Safely Refactoring Legacy Code
-- Unit Testing Strategies
-- Monolith to Microservices
-- Postman Delivers
+<ul style="text-align: left">
+<li class="fragment">Modernizing .NET Framework Applications Workshop</li>
+<li class="fragment">Safely Refactoring Legacy Code</li>
+<li class="fragment">Unit Testing Strategies</li>
+<li class="fragment">Monolith to Microservices</li>
+<li class="fragment">Postman as a Testing Framework</li>
+</ul>
 
 ---
 
@@ -100,7 +102,7 @@ The challenge of how to refactor legacy code becomes a challenge of how to unit 
 The term unit test has become overloaded and often are used to refer to multiple kinds of testing: 
 <br/><br/>
 <ui>
-<li class="fragment"><strong>Unit tests</strong> are code developed for the purpose of testing portions of an application with aknown inputs and expeted outputs.</li>
+<li class="fragment"><strong>Unit tests</strong> are code developed for the purpose of testing portions of an application with known inputs and expeted outputs.</li>
 <li class="fragment"><strong>Integration tests</strong> are used to test multiple modules of an application together.</li>
 <li class="fragment"><strong>Functional tests</strong> validate business requirements.</li>
 <li class="fragment"><strong>Technical unit tests</strong> performance, memory, scalability.</li>

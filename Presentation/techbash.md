@@ -9,7 +9,6 @@ title: "TechBash 2019"
 # TechBash 2019
 ::: 
 
-At the Kalahari Resort in Mount Pocono, Pennsylvania.
 [github with presentations and code demos](https://github.com/TechBash/techbash2019)
 
 ---
@@ -83,12 +82,13 @@ A day long walkthrough on how to successfully migrate an existing application to
 
 ### Unit Testing Enables Change
 
-The challenge of how to refactor legacy code becomes a challenge of how to unit test legacy code.
-
 * Once it has tests, it isn't legacy code anymore
 * We have a safety net
 * We can fearlessly refactor
 * We can just follow the catalog of business rules
+
+<br></br>
+<div class="fragment">The challenge of how to refactor legacy code becomes a challenge of how to unit test legacy code.</div>
 
 ---
 
@@ -102,7 +102,7 @@ The challenge of how to refactor legacy code becomes a challenge of how to unit 
 The term unit test has become overloaded and often are used to refer to multiple kinds of testing: 
 <br/><br/>
 <ui>
-<li class="fragment"><strong>Unit tests</strong> are code developed for the purpose of testing portions of an application with known inputs and expeted outputs.</li>
+<li class="fragment"><strong>Unit tests</strong> are developed for the purpose of testing portions of an application with known inputs and expeted outputs.</li>
 <li class="fragment"><strong>Integration tests</strong> are used to test multiple modules of an application together.</li>
 <li class="fragment"><strong>Functional tests</strong> validate business requirements.</li>
 <li class="fragment"><strong>Technical unit tests</strong> performance, memory, scalability.</li>
@@ -182,43 +182,17 @@ Must have a testing plan that incorporates all of these:</p>
 
 ---
 
-### Strategies That Tend to Fail
-
----
-
-### Rewrite the software with a new team
-
-| Advantages | Disadvantages |
-|---|---|
-| Won't make the same mistakes as the old team | Will make all new mistakes |
-| Can take a fresh look at an old problem | Lack of skills |
-
----
+### Big-bang rewrites are rarely the answer
 
 #### Reasons for failure
-* Scope creep
-* Lack of expertise in the business
-* Relationships
-* Culture 
-* Morale
 
----
-
-### Rewrite the software with the same team
-
-| Advantages | Disadvantages |
-|---|---|
-| Won't make the same mistakes as the old team | Will make all new mistakes |
-| Allows for parallel development | Features will diverge |
-| | Scope |
-| | Teams skills don't level up together |
-
----
-
-#### Reasons for failure
-* Scope creep
-* Business pressure
-* Morale
+<ul style="text-align: left">
+<li class="fragment">Scope creep</li>
+<li class="fragment">Business pressure</li>
+<li class="fragment">Lack of expertise in the business</li>
+<li class="fragment">Relationships</li>
+<li class="fragment">Morale</li>
+</ul>
 
 ---
 
@@ -260,7 +234,7 @@ Must have a testing plan that incorporates all of these:</p>
 
 #### Imposter Syndrome
 
-<span class="fragment">The powerpoint wasn't put on GitHub. </span><span class="fragment">It was streamed, but isn't available anymore on Twitch. </span><span class="fragment">There should be a YouTube video "soon".</span>
+<span class="fragment">The powerpoint wasn't put on GitHub. </span><span class="fragment">It was streamed, but isn't available anymore on Twitch. </span><span class="fragment">There should be a YouTube video "soon."</span>
 
 ---
 
